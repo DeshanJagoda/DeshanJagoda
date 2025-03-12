@@ -7,7 +7,7 @@ About Me 🚀
 <hr>
 What I'm Up To 🌱
 
-- **Learning:** Digital Automation and sustainability at **Agraganya Institute**.
+- **Learning:** Digital Automation and sustainability for Low carbon at **Agraganya By Eutech Institute**.
 - **Building:** Projects that solve real-world problems and push the boundaries of technology.
 - **Reach Me:** 📫 **info.deshanjagoda@gmail.com**
 <hr>
