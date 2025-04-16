@@ -86,12 +86,12 @@ Let's connect, collaborate, and shape a more sustainable, AI-driven world togeth
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deshanjagoda&show_icons=true&theme=light" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=deshanjagoda&theme=light" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=deshanjagoda&show_icons=true&theme=light" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deshanjagoda&theme=light" alt="GitHub Streak">
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshanjagoda&theme=light" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshanjagoda&theme=light" alt="Top Languages">
 </div>
 
 <!-- ==================================================== -->
